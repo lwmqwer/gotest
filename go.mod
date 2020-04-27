@@ -1,8 +1,5 @@
-module gitbub.com/my/helo
+module github.com/lwmqwer/gotest
 
 go 1.14
 
-require (
-	golang.org/x/text v0.3.0 // indirect
-	rsc.io/quote v1.5.2
-)
+require rsc.io/quote v1.5.2
